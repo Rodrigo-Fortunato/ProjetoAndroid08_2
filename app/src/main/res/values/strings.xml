@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjetoAndroid08_2</string>
+    <string name="nome">Rodrigo Fortunato Martins Neves</string>
+    <string name="ra">1110482313035</string>
+    <string name="etNomePessoa">Nome</string>
+    <string name="etCpfPessoa">CPF</string>
+    <string name="btnResultado">Resultado</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
